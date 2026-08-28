@@ -4,17 +4,17 @@
  "fields": [
   {
    "name": "corner_count",
-   "path": "payload.land.deed.corner_count",
+   "path": "land.deed.corner_count",
    "unit": "count"
   },
   {
    "name": "area_m2",
-   "path": "payload.land.deed.area_m2",
+   "path": "land.deed.area_m2",
    "unit": "square meters"
   },
   {
    "name": "record_version",
-   "path": "payload.land.deed.record_version",
+   "path": "land.deed.record_version",
    "unit": "version index"
   }
  ],
