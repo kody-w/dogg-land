@@ -70,3 +70,19 @@ can find it.
 <!--trust-->
 No ratings yet — used this chain? [Rate it](../../issues/new?template=rate.yml): valid ratings publish automatically as verifiable frames.
 <!--/trust-->
+
+## Summon this node
+
+A MISSION chant — 14 words — carries the `land:@kody-w/dogg-land` dimension's identity, its tick, a hash prefix that pins the exact frame, and a quantized snapshot of corner_count, area_m2, record_version.
+
+```
+KNELL CAST PURE GLEAM FORGE BLUFF BATCH ANVIL PANACEA BOND DENSE GRAND GLEAM FLOOD
+```
+
+`dogg:1:14:BIALTtAAAcGaQB1B-FKTNAAw`
+
+Tap to decode: [https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALTtAAAcGaQB1B-FKTNAAw](https://kody-w.github.io/dogg/recite.html#dogg:1:14:BIALTtAAAcGaQB1B-FKTNAAw)
+
+This chant carries three things: which dimension it names (`land:@kody-w/dogg-land`), which tick and frame it was cut from (tick 1, hash prefix `30669`), and the field values above, quantized (log-quantized, ~0.3% relative (1e-6 … 1e15)) — enough to recognize the node and sanity-check a claim about it without touching the network.
+
+This is a snapshot of one tick (tick 1) — the numbers move as the stream advances, so re-mint with `python3 tools/dogg.py mission land:@kody-w/dogg-land` for the latest.
