@@ -1,0 +1,26 @@
+{
+ "schema": "dogg/0-mission",
+ "dimension": "land:@kody-w/dogg-land",
+ "fields": [
+  {
+   "name": "corner_count",
+   "path": "payload.land.deed.corner_count",
+   "unit": "count"
+  },
+  {
+   "name": "area_m2",
+   "path": "payload.land.deed.area_m2",
+   "unit": "square meters"
+  },
+  {
+   "name": "record_version",
+   "path": "payload.land.deed.record_version",
+   "unit": "version index"
+  }
+ ],
+ "default": [
+  "corner_count",
+  "area_m2",
+  "record_version"
+ ]
+}
