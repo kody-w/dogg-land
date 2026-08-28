@@ -1,0 +1,13 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/dogg-land:6a13d4b7940302e0d408d98e3919c0cab1fef2ecb65983aed26d49e9cef43799",
+  "kind": "node",
+  "name": "dogg-land",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "dogg-land",
+  "github": "https://github.com/kody-w/dogg-land",
+  "parent_rappid": "rappid:@kody-w/dogg:398899d4c850bc28fabe33115c52436def0d485c34753e9bbef06e4c283892b4",
+  "minted_at": "2026-08-28T17:49:19.191Z",
+  "notes": "Federated node of the global tick network; descends from the spine thread. Minted once per RAPP spec §6.2 — uuid-entropy tail, never a name-hash."
+}

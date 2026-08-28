@@ -1,0 +1,50 @@
+{
+  "spec": "rapp/1",
+  "kind": "land.snapshot",
+  "stream_id": "land:@kody-w/dogg-land",
+  "seq": 0,
+  "utc": "2026-08-28T17:49:40.505Z",
+  "payload": {
+    "tick": 465,
+    "tick_frame": "cb1bb7f89de1efbfced38889c067e30e3d74817f71173ab51ca7f9c32f877e93",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-28T17:49:40.505Z",
+    "land": {
+      "deed": {
+        "parcel": {
+          "document_sha256": "PLACEHOLDER",
+          "registry_pointer": "PLACEHOLDER (county recorder URL)",
+          "corners": [
+            [
+              "33.7502",
+              "-84.3908"
+            ],
+            [
+              "33.7502",
+              "-84.3874"
+            ],
+            [
+              "33.7478",
+              "-84.3874"
+            ],
+            [
+              "33.7478",
+              "-84.3908"
+            ]
+          ],
+          "landmark": "Georgia State Capitol block, Atlanta, GA (public landmark example — approximate footprint, not a survey)"
+        },
+        "corner_count": 4,
+        "area_m2": 83890,
+        "record_version": 1
+      }
+    },
+    "sources_failed": [],
+    "about": "A federated node of the global tick network: this repo's own land outlook, one frame per observed tick, keyed to the spine's tick anchors so it joins every other node's data on the same clock. THEME=land carries a TEMPLATE deed record over a public landmark polygon — placeholders, not a real title claim."
+  },
+  "payload_hash": "12cc7185ea9573722250a8f1f65ff54f1c573fa0a77e4495c50e3832979d2349",
+  "prev": null,
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "bfb127d62245d24dbb13700c5c8c024c8e74bce0df24a2cc166422a04dee576e"
+}
