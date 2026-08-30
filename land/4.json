@@ -1,0 +1,49 @@
+{
+  "spec": "rapp/1",
+  "kind": "land.snapshot",
+  "stream_id": "land:@kody-w/dogg-land",
+  "seq": 4,
+  "utc": "2026-08-30T11:53:19.796Z",
+  "payload": {
+    "tick": 713,
+    "tick_frame": "8a87a7b642e728a66b2f7b838d43017e582da1a942475a9a4f5ffd9c02d8fa9e",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-30T11:53:19.796Z",
+    "land": {
+      "deed": {
+        "parcel": {
+          "document_sha256": "PLACEHOLDER",
+          "registry_pointer": "PLACEHOLDER (county recorder URL)",
+          "corners": [
+            [
+              "33.7502",
+              "-84.3908"
+            ],
+            [
+              "33.7502",
+              "-84.3874"
+            ],
+            [
+              "33.7478",
+              "-84.3874"
+            ],
+            [
+              "33.7478",
+              "-84.3908"
+            ]
+          ],
+          "landmark": "Georgia State Capitol block, Atlanta, GA (public landmark example — approximate footprint, not a survey)"
+        },
+        "corner_count": 4,
+        "area_m2": 83890,
+        "record_version": 5
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "684535af5f99f2effd49f5413e39c0afacac9f3d5bdb5062d3e9788c81becc79",
+  "prev": "3986dc0424340afc00136161a035f272a0d7f684cb38e7ed1f20b042babb011f",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "b5097c4b08d8f26d86efa48c2e974d124f0aff036acc36e337a0f13a4b964fd7"
+}
