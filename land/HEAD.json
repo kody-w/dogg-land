@@ -1,8 +1,8 @@
 {
-  "count": 20,
+  "count": 21,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "land:@kody-w/dogg-land",
-  "head_frame": "a242bbad9c7ab2bdf1d441eb234921cca6ff669de95ab7f81600bc8e34bcc226",
-  "updated": "2026-09-14T12:43:23.920Z"
+  "head_frame": "45417ccfe775eea2fca08678ed1c0b724a7ce617441817ca7e6ba50b15edac22",
+  "updated": "2026-09-15T11:42:31.040Z"
 }
